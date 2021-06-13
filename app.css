@@ -1,0 +1,37 @@
+
+#head{
+    font-size: xx-large;
+    font-family: sans-serif;
+    margin-top: 8%;
+    text-align: center;
+    
+}
+#all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+#card{
+    margin: 0 1rem 2rem 1rem;
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+  } 
+
+#imgmy{
+    max-width: 128px;
+}
+
+
+
+
+
+
+
+
